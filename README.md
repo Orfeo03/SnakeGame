@@ -5,11 +5,11 @@ The player controls the snake with the arrow keys, eats apples to grow, and trie
 
 Features
 
-- Smooth movement with keyboard controls
+-Smooth movement with keyboard controls
 
-- Score tracking
+-Score tracking
 
--Random apple generation
+Random apple generation
 
 -Game Over screen
 
